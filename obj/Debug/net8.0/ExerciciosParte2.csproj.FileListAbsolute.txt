@@ -1,0 +1,10 @@
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/bin/Debug/net8.0/ExerciciosParte2
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/bin/Debug/net8.0/ExerciciosParte2.dll
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/bin/Debug/net8.0/ExerciciosParte2.pdb
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/ExerciciosParte2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/ExerciciosParte2.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/ExerciciosParte2.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/ExerciciosParte2.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/ExerciciosParte2.dll
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/refint/ExerciciosParte2.dll
+/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/obj/Debug/net8.0/ExerciciosParte2.pdb

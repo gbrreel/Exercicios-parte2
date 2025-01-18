@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdmZSXFZhSg=",
+  "success": true,
+  "projectFilePath": "/Users/GabrielGallo/Códigos/Estudo/C#/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2/ExerciciosParte2.csproj",
+  "expectedPackageFiles": [
+    "/Users/GabrielGallo/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/GabrielGallo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/GabrielGallo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.12/microsoft.netcore.app.host.osx-arm64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
